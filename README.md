@@ -1,5 +1,14 @@
 # ARTOONS Universal File Converter
 
+# https://artoons.net
+
+## Downloads
+
+Download the latest official desktop app for your operating system:
+- [Download for Windows (.exe / .msi)](https://github.com/YOUR_USERNAME/YOUR_RELEASES_REPO/releases/latest)
+- [Download for macOS (.dmg)](https://github.com/YOUR_USERNAME/YOUR_RELEASES_REPO/releases/latest)
+- [Download for Linux (.AppImage)](https://github.com/YOUR_USERNAME/YOUR_RELEASES_REPO/releases/latest)
+
 Open-source, local-first universal file converter built with **React + TypeScript + Tailwind CSS + Vite** that compiles from a single codebase into two targets:
 
 1. **Web Application** — client-side conversions in the browser sandbox (50 MB per-file cap, strictly separated `<AdSlot />` rails, and an itch.io-style optional tipping + download flow).
